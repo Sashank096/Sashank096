@@ -1,239 +1,184 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1E3A8A,100:06B6D4&height=240&section=header&text=SASHANK%20REDDY%20SATHI&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=06B6D4&center=true&vCenter=true&width=850&lines=AI%2FML+Student;Python+Full-Stack+Developer;Problem+Solver;Building+Real-World+Applications;Always+Learning.+Always+Building." /><br><br>
+<div align="center">SASHANK REDDY SATHI
 
+B.Tech AI/ML Student · Python Developer · Full-Stack Developer
+
+<p>
+Building practical applications with Python, AI/ML and modern web technologies.
+</p><p>
 <a href="https://www.linkedin.com/in/sashank-reddy-sathi-846648408/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/sashankreddy96/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 &nbsp;
 <a href="mailto:sathisashankreddy@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><br><br>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p><img src="https://komarev.com/ghpvc/?username=sashankreddy96&label=PROFILE%20VIEWS&color=0EA5E9&style=flat-square"></div>---
 
-<img src="https://komarev.com/ghpvc/?username=sashankreddy96&label=PROFILE%20VIEWS&style=for-the-badge&color=06B6D4"/></div>---
+👋 About Me
 
-<div align="center">✦ ABOUT ME
+Hello! I'm Sashank Reddy Sathi, a 2nd-year B.Tech student specializing in Artificial Intelligence and Machine Learning at Aditya University.
 
-Hi, I'm Sashank 👋
+I am interested in Python development, full-stack development, artificial intelligence, machine learning, databases, and problem solving.
 
-2nd-Year B.Tech AI/ML Student · Python Developer · Full-Stack Builder
+I enjoy learning by building real applications and continuously improving my technical skills through projects and programming practice.
 
-<br>I'm passionate about turning ideas into useful, practical software.
+- 🎓 Degree: B.Tech — Artificial Intelligence & Machine Learning
+- 🏫 University: Aditya University
+- 📚 Current Year: 2nd Year
+- 📍 Location: Andhra Pradesh, India
+- 🚀 Currently Building: U_NANI_MOUS96
+- 💡 Interests: Python, Full-Stack Development, AI/ML & Problem Solving
 
-My current journey combines Python, Full-Stack Development, AI/ML and Problem Solving — with a focus on learning by actually building.
+---
 
-<br>"BUILDING SOFTWARE • EXPLORING AI • SOLVING PROBLEMS • LEARNING EVERY DAY"
+🛠️ Technical Skills
 
-</div>---
-
-✦ TECH STACK
-
-<div align="center">"PROGRAMMING"
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python" height="58"/><br><br>
-
-"FRONTEND"
-
-<img src="https://skillicons.dev/icons?i=html,css,js" height="58"/><br><br>
-
-"BACKEND & DATABASE"
-
-<img src="https://skillicons.dev/icons?i=fastapi,supabase,mysql" height="58"/><br><br>
-
-"TOOLS"
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="58"/><br><br>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/></div>---
-
-<div align="center">✦ CURRENTLY BUILDING
-
-🧠 U_NANI_MOUS96
-
-"PYTHON FULL-STACK + AI CAREER DEVELOPMENT PLATFORM"
-
-<br><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=06B6D4" width="65%"/><br><br>
+Programming Languages
 
 <p>
-A centralized career-development platform designed to bring
-<br>
-student skills, projects, resumes, coding progress and career
-<br>
-development into one intelligent application.
-</p></div><br>✨ Project Highlights
+<img src="https://skillicons.dev/icons?i=c,cpp,python">
+</p>I use C, C++, and Python for programming, problem solving, and application development.
 
-<table>
-<tr>
-<td align="center" width="33%">📄
+Frontend Development
 
-Resume Analysis
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js">
+</p>I work with HTML, CSS, and JavaScript to create the frontend of web applications.
 
-Career-focused resume analysis and insights.
+Backend Development
 
-</td><td align="center" width="33%">🤖
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,supabase">
+</p>I am developing backend applications using FastAPI and Supabase.
 
-AI Features
+Database
 
-Intelligent features for student career development.
+<p>
+<img src="https://skillicons.dev/icons?i=mysql">
+</p>I use MySQL for storing, organizing, and managing application data.
 
-</td><td align="center" width="33%">📊
+Development Tools
 
-Progress
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode">
+</p>I use Git and GitHub for version control and project management, with Visual Studio Code as my primary development environment.
 
-Track skills, coding and career progress.
+Data & Analytics
 
-</td>
-</tr><tr>
-<td align="center">🏆
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+</p>I also work with Power BI and Microsoft Excel for data analysis and visualization.
 
-Achievements
+---
 
-Projects, certifications and accomplishments.
+🚀 Currently Working On
 
-</td><td align="center">👤
+U_NANI_MOUS96
 
-Profile
+Python Full-Stack + AI Career Development Platform
 
-Centralized student career profile.
+U_NANI_MOUS96 is my current major project, designed to bring important student career-development activities into one centralized platform.
 
-</td><td align="center">🎯
+The platform is being developed to help students organize and improve different aspects of their technical and career journey.
 
-Career
+Key Features
 
-Tools designed around career growth.
+- 📄 Resume Analysis — Analyze resumes and provide career-oriented insights.
+- 👤 Student Profile — Maintain important academic and career information.
+- 💻 Coding Progress — Track programming and problem-solving progress.
+- 🏆 Certifications & Achievements — Organize important accomplishments.
+- 🧩 Projects & Skills — Maintain a structured technical portfolio.
+- 🤖 AI Features — Add intelligent career-development capabilities.
+- 📊 Progress Tracking — Understand technical growth over time.
 
-</td>
-</tr>
-</table><br><div align="center"><img src="https://skillicons.dev/icons?i=python,fastapi,mysql,html,css,js,git,github"/><br><br>
+Technology Stack
 
-<img src="https://img.shields.io/badge/PROJECT-ACTIVELY%20BUILDING-06B6D4?style=for-the-badge"/></div>---
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,mysql,html,css,js,git,github">
+</p>Project Status: "Actively Under Development"
 
-<div align="center">✦ WHAT I LOVE BUILDING
+---
 
-</div><table>
-<tr><td align="center" width="25%">🐍
+🧠 Problem Solving
 
-PYTHON
+I regularly practice Data Structures and Algorithms to improve my programming logic and problem-solving ability.
 
-Backend systems
-Automation
-Application logic
+LeetCode
 
-</td><td align="center" width="25%">⚡
+<p>
+<a href="https://leetcode.com/u/sashankreddy96/">
+<img src="https://img.shields.io/badge/LeetCode-SashankReddy96-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+</p>My focus is on understanding the problem, developing an efficient solution, analyzing it, and continuously improving my approach.
 
-FULL-STACK
+---
 
-Web applications
-APIs
-Databases
+📚 What I'm Currently Learning
 
-</td><td align="center" width="25%">🤖
-
-AI / ML
-
-Intelligent systems
-Experiments
-Real-world applications
-
-</td><td align="center" width="25%">🧠
-
-DSA
-
-Algorithms
-Logic
-Problem solving
-
-</td></tr>
-</table>---
-
-<div align="center">✦ GITHUB ANALYTICS
-
-<br><img src="https://github-readme-stats.vercel.app/api?username=sashankreddy96&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=06B6D4&icon_color=06B6D4&text_color=CBD5E1&bg_color=00000000" height="185"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashankreddy96&layout=compact&theme=transparent&hide_border=true&title_color=06B6D4&text_color=CBD5E1&bg_color=00000000" height="185"/><br><br>
-
-<img src="https://streak-stats.demolab.com?user=sashankreddy96&theme=transparent&hide_border=true&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=94A3B8&dates=64748B&sideNums=E2E8F0&currStreakNum=E2E8F0"/></div>---
-
-<div align="center">✦ PROBLEM SOLVING
-
-<br><a href="https://leetcode.com/u/sashankreddy96/"><img src="https://img.shields.io/badge/LEETCODE-SASHANKREDDY96-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a><br><br>
-
-"THINK → CODE → DEBUG → OPTIMIZE"
-
-<br>Practicing Data Structures & Algorithms to continuously improve
-<br>
-logical thinking and problem-solving skills.
-
-</div>---
-
-<div align="center">✦ CURRENT FOCUS
-
-</div><table>
-<tr><td width="50%">🚀 Development
+I am continuously strengthening my knowledge in:
 
 - Python Full-Stack Development
-- FastAPI backend development
-- Database design
-- Modern web applications
-- Production-quality projects
-
-</td><td width="50%">🤖 Intelligence
-
+- FastAPI
+- Database Development
 - Artificial Intelligence
 - Machine Learning
-- AI-powered applications
-- Intelligent systems
-- Practical AI experimentation
+- Data Structures & Algorithms
+- Web Application Development
+- Data Analysis & Visualization
 
-</td></tr>
-</table>---
+---
 
-<div align="center">✦ DEVELOPER MINDSET
+🎯 My Goals
 
-<br>LEARN. BUILD. BREAK. FIX. REPEAT.
+My current goal is to become a strong Python Full-Stack Developer with a solid foundation in AI/ML.
 
-<br>«I don't want to just learn technologies.
+I want to build complete, practical applications that demonstrate my ability to work across the frontend, backend, database, and intelligent-system layers of a project.
 
-I want to build with them.»
+I am also focused on improving my problem-solving skills and building projects that solve real-world problems.
 
-<br><img src="https://img.shields.io/badge/KEEP%20LEARNING-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KEEP%20BUILDING-1E3A8A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KEEP%20IMPROVING-0F172A?style=for-the-badge"/></div>---
+---
 
-<div align="center">✦ LET'S CONNECT
+💻 Development Philosophy
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=06B6D4" width="55%"/><br><br>
+«Learn the technology. Build with it. Understand the problems. Improve continuously.»
 
-Have an idea, project, collaboration or opportunity?
+I believe consistent development and practical project experience are some of the best ways to turn technical knowledge into real engineering skills.
 
-Let's build something meaningful.
+---
 
-<br><a href="mailto:sathisashankreddy@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+📊 GitHub Activity
 
-<a href="https://www.linkedin.com/in/sashank-reddy-sathi-846648408/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sashankreddy96&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=0EA5E9&icon_color=0EA5E9&text_color=64748B" height="180"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashankreddy96&layout=compact&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=64748B" height="180"><br><br>
 
-<a href="https://leetcode.com/u/sashankreddy96/"><img src="https://img.shields.io/badge/LEETCODE-FOLLOW-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a><br><br>
+<img src="https://streak-stats.demolab.com?user=sashankreddy96&theme=transparent&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=64748B&dates=94A3B8"></div>---
 
-<table>
-<tr>
-<td align="center"><b>SASHANK REDDY SATHI</b>
+🌐 Connect With Me
 
-<br><sub>AI/ML Student · Python Developer · Full-Stack Builder</sub>
+<div align="center">Interested in my work or want to connect?
 
-</td><td align="center"><b>LOCATION</b>
+I'm always open to learning, building, and connecting with other developers and technology enthusiasts.
 
-<br><sub>Andhra Pradesh, India</sub>
+<br><a href="mailto:sathisashankreddy@gmail.com">
+<img src="https://img.shields.io/badge/Email-sathisashankreddy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a><br><br>
 
-</td><td align="center"><b>EMAIL</b>
+<a href="https://www.linkedin.com/in/sashank-reddy-sathi-846648408/">
+<img src="https://img.shields.io/badge/LinkedIn-Sashank%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a><br><br>
 
-<br><sub>sathisashankreddy@gmail.com</sub>
+<a href="https://leetcode.com/u/sashankreddy96/">
+<img src="https://img.shields.io/badge/LeetCode-SashankReddy96-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+</a><br><br>
 
-</td>
-</tr>
-</table><br><sub>Thanks for stopping by. ⭐</sub>
+📍 Andhra Pradesh, India
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:1E3A8A,75:0F172A,100:020617&height=160&section=footer" width="100%"/></div>
+Thank you for visiting my profile. ⭐
+
+</div>
