@@ -5,20 +5,21 @@ const developer = {
     name: "Sashank Reddy Sathi",
     role: "Python Full Stack Developer & Data Analyst",
     education: "B.Tech 2nd Year",
-    currentProject: "u_nani_mous96 (Python Full Stack)",
+    curre: "u_nani_mous96 (Python Full Stack)",
     passion: ["Building Scalable Web Apps", "Data Driven Insights", "Problem Solving"]
 };
 
 ---
 
-### 🚀 About Me
+### 🎓 Education: Pursuing B.Tech (2nd Year)
 
-- 🎓 **Education:** Pursuing **B.Tech (2nd Year)**
-- 💡 **Focus Areas:** Web Development & Data Analytics
-- 🛠️ **Current Project:** Working on **`u_nani_mous96`** — a full-stack Python application
-- 📬 **Email:** [sathisashankreddy@gmail.com](mailto:sathisashankreddy@gmail.com)
-- 💼 **LinkedIn:** [Sashank Reddy Sathi](https://www.linkedin.com/in/sashank-reddy-sathi-846648408)
+💡 Focus Areas: Web Development & Data Analytics
 
+🛠️ Current Project: Working on u_nani_mous96 — a full-stack Python application
+
+📬 Email: sathisashankreddy@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/sashank-reddy-sathi-846648408
 ---
 
 ### 💻 Tech Stack & Skills
