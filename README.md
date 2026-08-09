@@ -3,15 +3,15 @@
 <p>
 <b>Building practical applications with Python, AI/ML and modern web technologies.</b>
 </p><br><a href="https://www.linkedin.com/in/sashank-reddy-sathi-846648408/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn"/>
+<img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=64" width="40" alt="LinkedIn"/>
 </a>    
 
 <a href="https://leetcode.com/u/sashankreddy96/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" alt="LeetCode"/>
+<img src="https://cdn.simpleicons.org/leetcode" width="40" alt="LeetCode"/>
 </a>    
 
 <a href="mailto:sathisashankreddy@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email"/>
+<img src="https://cdn.simpleicons.org/gmail" width="40" alt="Email"/>
 </a><br><sub>
 <a href="https://www.linkedin.com/in/sashank-reddy-sathi-846648408/">LinkedIn</a>
 &nbsp; · &nbsp;
@@ -132,7 +132,7 @@ The project combines student career information, projects, skills, resume analys
 I regularly practice Data Structures and Algorithms to improve my programming logic and problem-solving ability.
 
 <div align="left"><a href="https://leetcode.com/u/sashankreddy96/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="38" alt="LeetCode"/>
+<img src="https://cdn.simpleicons.org/leetcode" width="38" alt="LeetCode"/>
 </a> 
 
 <b>LeetCode — SashankReddy96</b>
@@ -218,15 +218,15 @@ If you are interested in my work, want to collaborate, or simply want to connect
 <br><br>
 
 <a href="mailto:sathisashankreddy@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" alt="Email"/>
+<img src="https://cdn.simpleicons.org/gmail" width="48" alt="Email"/>
 </a>      
 
 <a href="https://www.linkedin.com/in/sashank-reddy-sathi-846648408/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="48" alt="LinkedIn"/>
+<img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=64" width="48" alt="LinkedIn"/>
 </a>      
 
 <a href="https://leetcode.com/u/sashankreddy96/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" alt="LeetCode"/>
+<img src="https://cdn.simpleicons.org/leetcode" width="48" alt="LeetCode"/>
 </a><br><br>
 
 <a href="mailto:sathisashankreddy@gmail.com">Email</a>
