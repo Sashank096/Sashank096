@@ -1,43 +1,26 @@
-# Hi there 👋, I'm Sashank Reddy Sathi
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&center=true&vcenter=true&width=650&lines=Hi+There!+I'm+Sashank+Reddy+Sathi+👋;Python+Full-Stack+Developer;Data+Analyst+%26+System+Architect" alt="Typing Banner" />
+</h1>
 
-I'm a **Python Full Stack Developer** & **Data Analyst** pursuing my B.Tech (2nd Year).
-
----
-
-### 🚀 About Me
-
-- 🎓 Pursuing **B.Tech (2nd Year)**
-- 💡 Passionate about **Web Development & Data Analytics**
-- 🛠️ Currently working on **`u_nani_mous96`** (Python Full Stack Project)
-- 📬 Email: [sathisashankreddy@gmail.com](mailto:sathisashankreddy@gmail.com)
-- 💼 LinkedIn: [Sashank Reddy Sathi](https://www.linkedin.com/in/sashank-reddy-sathi-846648408)
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<p align="center">
+  <a href="https://linkedin.com/in/sashank-reddy-sathi-846648408"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sathisashankreddy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Sashank096&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 💻 Executive Profile
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sashank096&show_icons=true&theme=dark" alt="Sashank's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sashank096&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
+```python
+class FullStackDataDeveloper:
+    def __init__(self):
+        self.name = "Sashank Reddy Sathi"
+        self.role = "Python Full-Stack Developer & Data Analyst"
+        self.education = "B.Tech (2nd Year)"
+        self.core_stack = ["Python", "MySQL", "JavaScript", "HTML5/CSS3"]
+        self.current_build = "u_nani_mous96 (Full-Stack Architecture)"
 
----
+    def value_proposition(self):
+        return "Bridging scalable web engineering with data-driven system insights."
 
-<p align="left">
-  👁️ <b>Profile Views:</b> 
-  <img src="https://komarev.com/ghpvc/?username=Sashank096&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
