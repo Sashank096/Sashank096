@@ -20,7 +20,9 @@
 <a href="mailto:sathisashankreddy@gmail.com">Email</a>
 </sub><br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sashankreddy96&label=PROFILE%20VIEWS&style=for-the-badge&color=0EA5E9"/></div>---
+<img src="https://komarev.com/ghpvc/?username=sashankreddy96&label=PROFILE%20VIEWS&style=for-the-badge&color=0EA5E9"/></div>
+
+---
 
 👋 About Me
 
