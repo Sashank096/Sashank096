@@ -1,194 +1,177 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:0EA5E9&height=220&section=header&text=SASHANK%20REDDY%20SATHI&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/><br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=50&lines=Python+Full-Stack+Developer;AI%2FML+Enthusiast;Data+Analytics+Explorer;Problem+Solver;B.Tech+AI%2FML+Student;Building+Real-World+Applications"/><br><br>
 
-  <p><b>Building practical applications with Python, C++, AI/ML, and modern web technologies.</b></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0E14&fontColor=00D9FF&text=Sashank%20Reddy%20Sathi&fontSize=38&desc=AI%2FML%20Student%20%7C%20Python%20Full-Stack%20Developer&descColor=64FFDA&animation=fadeIn&height=220" />
 
-  <a href="https://www.linkedin.com/in/sashank-reddy-sathi-846648408/">
-    <img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=64" width="40" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/sashankreddy96/">
-    <img src="https://cdn.simpleicons.org/leetcode" width="40" alt="LeetCode"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sathisashankreddy@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="40" alt="Email"/>
-  </a><br>
-  <sub>
-    <a href="https://www.linkedin.com/in/sashank-reddy-sathi-846648408/">LinkedIn</a> · 
-    <a href="https://leetcode.com/u/sashankreddy96/">LeetCode</a> · 
-    <a href="mailto:sathisashankreddy@gmail.com">Email</a>
-  </sub>
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=sashankreddy96&label=PROFILE%20VIEWS&style=for-the-badge&color=0EA5E9"/>
 </div>
-
----
-
-👋 About Me
-
-🚀 **Software Engineer & AI/ML Student** with a focus on building efficient, full-stack web applications and data-driven solutions. Currently pursuing my B.Tech in AI & ML at Aditya University (2nd Year).
-
-- ⚡ **Core Strengths:** Full-Stack Web Development (Python/FastAPI), Algorithmic Problem Solving (C++/Python), and Data Analytics.
-- 🎯 **Engineering Mindset:** Focused on clean code, optimized performance, and turning complex problem statements into functional digital products.
-- 💡 **Passionate About:** Combining AI/ML algorithms with scalable backend systems to solve real-world problems.
-
----
-
-🛠️ Technical Skills
-
-💻 Programming Languages
-
-<div align="left"><img src="https://skillicons.dev/icons?i=c,cpp,python" height="55"/></div>
-
-C · C++ · Python
-
-I use these languages for programming, problem solving, application development, and strengthening my core programming concepts.
-
----
-
-🎨 Frontend Development
-
-<div align="left"><img src="https://skillicons.dev/icons?i=html,css,js" height="55"/></div>
-
-HTML · CSS · JavaScript
-
-I use these technologies to create responsive and interactive web interfaces.
-
----
-
-⚡ Backend Development
-
-<div align="left"><img src="https://skillicons.dev/icons?i=fastapi,supabase" height="55"/></div>
-
-FastAPI · Supabase
-
-I use FastAPI and Supabase while developing backend services, APIs, and application functionality.
-
----
-
-🗄️ Database
-
-<div align="left"><img src="https://skillicons.dev/icons?i=mysql" height="55"/></div>
-
-MySQL
-
-I use MySQL to store, organize, and manage application data.
-
----
-
-🔧 Development Tools
-
-<div align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode" height="55"/></div>
-
-Git · GitHub · VS Code
-
-I use Git and GitHub for version control and project management, with VS Code as my primary development environment.
-
----
-
-📊 Data & Analytics
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</div>
-
-I use Power BI and Microsoft Excel for data analysis, visualization, and presenting meaningful insights.
-
----
-
-💻 Projects
-
-🎓 Smart Exam Invigilance System
-
-> **Tech Stack:** C++
-- Designed and developed a C++ solution to manage and automate exam monitoring and invigilator scheduling.
-- Leveraged Data Structures and Algorithms to prevent timing conflicts and streamline administrative allocation.
-
----
-
-📊 Data Analytics
-
-I am interested in using data to understand patterns, generate insights, and communicate information through visualization.
-
-Tools I Use
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</div>
-
-I am continuing to improve my skills in data analysis and visualization while exploring how analytics can support real-world decision making.
-
----
-
-🎓 Education
-
-Aditya University
-
-B.Tech — Artificial Intelligence & Machine Learning
-
-Current Year: 2nd Year
-
-My studies are helping me build a strong foundation across programming, artificial intelligence, machine learning, databases, and software development.
-
----
-
-🎯 Goals
-
-My current goal is to become a strong Python Full-Stack Developer with a solid foundation in AI/ML and Data Analytics.
-
-I want to build complete, practical applications that demonstrate my ability to work across frontend, backend, databases, data, and intelligent systems.
-
-I also want to continuously improve my problem-solving skills and develop projects that solve real-world problems.
-
----
-
-🧩 My Development Approach
-
-I believe the best way to learn technology is by building with it.
-
-Learn → Build → Test → Debug → Improve
-
-Every project gives me an opportunity to understand something new, solve practical problems, and improve my development skills.
-
----
-
-📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sashankreddy96&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=0EA5E9&icon_color=0EA5E9&text_color=64748B" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashankreddy96&layout=compact&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=64748B" height="180"/>
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=sashankreddy96&theme=transparent&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=64748B&dates=94A3B8"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+AI%2FML+Student+%40+Aditya+University;%24+skills+%E2%86%92+Python+%7C+FastAPI+%7C+C%2B%2B+%7C+JS;%24+focus+%E2%86%92+Full-Stack+%2B+Data+Analytics;%24+cat+open-to.txt+%E2%86%92+Python+Full-Stack+Roles" />
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E14)](https://www.linkedin.com/in/sashank-reddy-sathi-846648408/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-64FFDA?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0A0E14)](https://leetcode.com/u/sashankreddy96/)
+[![Email](https://img.shields.io/badge/Email-Contact-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E14)](mailto:sathisashankreddy@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Sashank096-64FFDA?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0E14)](https://github.com/Sashank096)
+
+<img src="https://komarev.com/ghpvc/?username=Sashank096&label=PROFILE+VIEWS&style=for-the-badge&color=0EA5E9" />
+
 </div>
 
 ---
 
-🤝 Contact Me
+### `> whoami`
+
+I'm an AI/ML student building full-stack applications and data-driven solutions — turning coursework into real, working products instead of just assignments.
+
+```bash
+$ cat .profile
+
+ROLE     =  AI/ML Student · Python Full-Stack Developer
+EXP      =  2nd Year, B.Tech AI & ML
+DOMAIN   =  Full-Stack Web  |  Data Analytics  |  Applied AI
+STACK    =  Python  |  FastAPI  |  C++  |  JavaScript
+OPEN_TO  =  Python Full-Stack / AI-adjacent internships & roles
+LOCATION =  Andhra Pradesh, India
+```
+
+---
+
+### `$ ls /tech-stack`
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=fastapi,supabase,mysql&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+**Data & Analytics**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-0A0E14?style=for-the-badge&logo=powerbi&logoColor=00D9FF)
+![Excel](https://img.shields.io/badge/Excel-0A0E14?style=for-the-badge&logo=microsoftexcel&logoColor=64FFDA)
+
+---
+
+### `> cat expertise.md`
+
+| Domain | Focus |
+| :-- | :-- |
+| **Full-Stack Development** | Building web apps with FastAPI backends + HTML/CSS/JS frontends, Supabase & MySQL for data |
+| **Algorithmic Problem Solving** | C++ / Python — data structures, algorithms, competitive practice on LeetCode |
+| **AI / ML Applications** | Coursework + project-driven exploration of applying ML concepts to practical systems |
+| **Data Analytics** | Power BI & Excel for analysis, visualization, and insight generation |
+
+---
+
+### `$ ls /featured-projects`
+
+<details open>
+<summary><b>&#9654; TruthForgeAI &mdash; Multi-Agent Research & Fact Verification System</summary>
+
+Built for InnovaHack Chapter 1 (Gen AI track) — a frontend-driven web app simulating a five-agent pipeline (research → verification → hallucination detection → confidence scoring → report generation).
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | HTML5 · CSS3 · Vanilla JavaScript · Chart.js |
+| **Context** | Built for InnovaHack Chapter 1, Gen AI track |
+| **Repo** | [View](https://github.com/Sashank096/TruthForgeAI) |
+
+</details>
+
+<details>
+<summary><b>&#9654; Smart Exam Invigilance System</b></summary>
+
+A C++ solution to manage and automate exam monitoring and invigilator scheduling, using data structures and algorithms to prevent timing conflicts and streamline allocation.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | C++ |
+| **Focus** | Scheduling logic, conflict prevention via DSA |
+| **Repo** | [View](https://github.com/Sashank096/Smart-Exam-Invigilation-System) |
+
+</details>
+
+<details>
+<summary><b>&#9654; Personal E-Commerce Website</b></summary>
+
+A self-built e-commerce site with a full product catalog, focused on a clean, offline-capable frontend — product images are embedded as base64 data URIs to avoid external dependencies.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | HTML · CSS · JavaScript |
+| **Detail** | Self-contained product pages, no external image hosting required |
+
+</details>
+
+---
+
+### `> cat education.yaml`
+
+![Education](https://img.shields.io/badge/Aditya%20University-B.Tech%20AI%20%26%20ML%20(2nd%20Year)-00D9FF?style=for-the-badge&labelColor=0A0E14)
+
+---
+
+### `$ ./github-analytics.sh`
 
 <div align="center">
-  Let's Connect<br><br>
-  If you are interested in my work, want to collaborate, or simply want to connect, feel free to reach out.<br><br>
 
-  <a href="mailto:sathisashankreddy@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="48" alt="Email"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sashank-reddy-sathi-846648408/">
-    <img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=64" width="48" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/sashankreddy96/">
-    <img src="https://cdn.simpleicons.org/leetcode" width="48" alt="LeetCode"/>
-  </a><br><br>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sashank096&show_icons=true&hide_border=true&title_color=00D9FF&icon_color=64FFDA&text_color=C9D1D9&bg_color=0A0E14" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sashank096&hide_border=true&background=0A0E14&stroke=00D9FF&ring=64FFDA&fire=00D9FF&currStreakLabel=64FFDA" />
 
-  <a href="mailto:sathisashankreddy@gmail.com">Email</a> · 
-  <a href="https://www.linkedin.com/in/sashank-reddy-sathi-846648408/">LinkedIn</a> · 
-  <a href="https://leetcode.com/u/sashankreddy96/">LeetCode</a><br><br>
+</div>
 
-  <b>Sashank Reddy Sathi</b><br>
-  B.Tech AI/ML Student · Python Full-Stack Developer · Data Analytics Enthusiast<br>
-  📍 Andhra Pradesh, India<br><br>
+<div align="center">
 
-  <i>Thank you for visiting my profile. ⭐</i>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sashank096&bg_color=0A0E14&color=00D9FF&line=64FFDA&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sashank096&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+---
+
+### `> cat current-focus.yaml`
+
+```yaml
+learning:
+  - Deepening AI/ML fundamentals alongside coursework
+  - Backend architecture with FastAPI + Supabase
+
+building:
+  - Personal e-commerce site  # full-stack product catalog project
+  - Data analytics practice with Power BI & Excel
+
+open_to:
+  - Python full-stack development roles
+  - AI/ML-adjacent internships and collaborations
+```
+
+---
+
+<div align="center">
+
+**Let's connect** — feel free to reach out about collaboration, projects, or opportunities.
+
+[![Email](https://img.shields.io/badge/Email-sathisashankreddy%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E14)](mailto:sathisashankreddy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sashank%20Reddy%20Sathi-64FFDA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E14)](https://www.linkedin.com/in/sashank-reddy-sathi-846648408/)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0E14&height=120&section=footer" />
+
 </div>
