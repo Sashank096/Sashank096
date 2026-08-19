@@ -3,7 +3,7 @@
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=50&lines=Python+Full-Stack+Developer;AI%2FML+Enthusiast;Data+Analytics+Explorer;Problem+Solver;B.Tech+AI%2FML+Student;Building+Real-World+Applications"/>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=sashankreddy96&label=PROFILE%20VIEWS&style=for-the-badge&color=0EA5E9"/>
+  <img src="https://komarev.com/ghpvc/?username=Sashank096&label=PROFILE%20VIEWS&style=for-the-badge&color=0EA5E9"/>
 </div>
 
 <br>
@@ -52,8 +52,8 @@ A Python full-stack application designed to automatically compile, format, and g
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sashank096&show_icons=true&theme=dark" alt="Sashank's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sashank096&layout=compact&theme=dark" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sashank096&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Sashank's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sashank096&layout=compact&theme=dark" alt="Most Used Languages" width="48%" />
 </p>
 
 ---
