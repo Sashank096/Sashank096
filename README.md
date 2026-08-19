@@ -51,10 +51,9 @@ A Python full-stack application designed to automatically compile, format, and g
 
 ## 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sashank096&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Sashank's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sashank096&layout=compact&theme=dark" alt="Most Used Languages" width="48%" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=Sashank096&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Sashank096&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sashank096&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
