@@ -41,8 +41,8 @@ Enthusiastic and detail-oriented developer with strong knowledge of Python, web 
 
 ## 🚀 Featured Project:
 
-### 📄 UNANIMOUS — Resume Builder
-A Python full-stack application designed to automatically compile, format, and generate tailored, professional resumes.
+### 📄 UNANIMOUS — Resume, ATS & Portfolio Builder
+A Python full-stack application designed to automatically compile, format, and generate tailored, professional resumes, an ATS checker, and a unique portfolio generator.
 
 * **Live Demo:** [UNANIMOUS on Vercel](https://unanimous-topaz.vercel.app)
 * **Repository:** [Sashank096/unanimous](https://github.com/Sashank096/unanimous)
