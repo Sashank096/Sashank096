@@ -60,22 +60,24 @@ A Python full-stack application designed to automatically compile, format, and g
 
 ---
 
+---
+
 ## 📊 Most Visited Repositories
 
 * **Unanimous** *(Full-Stack Profile & Resume Generator)*  
-  [![Views](https://komarev.com/ghpvc/?username=Sashank096&repo=unanimous&label=Repo%20Views&style=flat-square&color=0EA5E9)](https://unanimous-topaz.vercel.app)
+  [![Views](https://komarev.com/ghpvc/?username=Sashank096&repo=unanimous&label=Repo%20Views&style=flat-square&color=0EA5E9)](https://github.com/Sashank096/unanimous)
 
 * **Students Hub** *(Web Application)*  
   [![Views](https://komarev.com/ghpvc/?username=Sashank096&repo=students-hub&label=Repo%20Views&style=flat-square&color=0EA5E9)](https://github.com/Sashank096/students-hub)
 
 * **Smart Exam Invigilation System** *(C++ Console App)*  
-  [![Views](https://komarev.com/ghpvc/?username=Sashank096&repo=smart-exam-invigilation-system&label=Repo%20Views&style=flat-square&color=0EA5E9)](https://github.com/Sashank096)
+  [![Views](https://komarev.com/ghpvc/?username=Sashank096&repo=Smart-Exam-Invigilation-System&label=Repo%20Views&style=flat-square&color=0EA5E9)](https://github.com/Sashank096/Smart-Exam-Invigilation-System)
 
 * **MedTrack-DV** *(Hospital Analytics Power BI Dashboard)*  
-  [![Views](https://komarev.com/ghpvc/?username=Sashank096&repo=MedTrack-DV&label=Repo%20Views&style=flat-square&color=0EA5E9)](https://github.com/Sashank096)
+  [![Views](https://komarev.com/ghpvc/?username=Sashank096&repo=Infosys-Springboard-MedTrack-DV&label=Repo%20Views&style=flat-square&color=0EA5E9)](https://github.com/Sashank096/Infosys-Springboard-MedTrack-DV)
 
 * **AWS ML Hackathon** *(Collaborative AI Repository)*  
-  [![Views](https://komarev.com/ghpvc/?username=Sashank096&repo=aws-ml-hackathon1&label=Repo%20Views&style=flat-square&color=0EA5E9)](https://github.com/kailashpachipala/aws-ml-hackathon1)
+  [![Views](https://komarev.com/ghpvc/?username=Sashank096&repo=AWS-ML-HACKATHON&label=Repo%20Views&style=flat-square&color=0EA5E9)](https://github.com/Sashank096/AWS-ML-HACKATHON)
 
 
 ---
